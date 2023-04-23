@@ -12,7 +12,7 @@ const Loader = () => {
           fontWeight:800,
           marginTop:40
         }}
-      >{progress.toFixed(2)}%plz wait mama</p>
+      >{progress.toFixed(2)}%plz wait</p>
     </Html>
   )
 }
